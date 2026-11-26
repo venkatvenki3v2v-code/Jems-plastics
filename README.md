@@ -1,3 +1,3 @@
 # Jems-plastics
 
-https://jemsplastics.online/
+jemsplastics.online
